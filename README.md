@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Web Tech**
 
-- 📫 How to reach me **AnkitKumar8860@gmail.com** 
+- 📫 How to reach me **AnkitKumar886@gmail.com** 
 
 - ⚡ Fun fact **I watch cartoon**
 

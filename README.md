@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Web App**
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Web Tech**
 

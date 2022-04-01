@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Ankit Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ankit Kumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Ankit Kumar-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankit Kumar-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/Ankit Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ankit Kumar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Ankit Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ankit Kumar" height="30" width="40" /></a>
+<a href="https://twitter.com/Ankit-Kumar886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ankit-Kumar886" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Ankit-Kumar886-44b89166b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankit-Kumar886-44b89166b3" height="30" width="40" /></a>
+<a href="https://instagram.com/Ankit-Kumar886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ankit Kumar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Ankit-Kumar886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ankit Kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
